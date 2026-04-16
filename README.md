@@ -1,6 +1,6 @@
 Dataset Link: https://www.kaggle.com/datasets/vuppalaadithyasairam/ultrasound-breast-images-for-breast-cancer
 
-Internet classification test:
+Internet classification test with Eca-Net trained model:
 
 Malignant sample test: https://www.ultrasoundcases.info/cases/breast-and-axilla/pitfalls/malignant-lesions-mimicking-a-benign-lesion/
 
